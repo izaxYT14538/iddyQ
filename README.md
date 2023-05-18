@@ -4,18 +4,16 @@ Nota, el wallpaper lo tienes que configurar manualmente.
 ![DeepinScreenshot_Seleccionar área_20230516211635](https://github.com/izaxYT14538/iddyQ-1.0/assets/101516262/731b288f-f5ea-43af-a811-803bce5e3aab)
 
 es una incompleta, por lo que faltan pulir algunas cosas como:
-plymouth
-tema de sddm
-tema gtk
-iconos
-logo de lubuntu al inicio
+plymouth,
+tema de sddm,
+
+
 
 
 iddyQ 1.0 incomplete 1 (Powered By Lubuntu 20.04.6)
 
 iddyQ es Un respin de Lubuntu 20.04.6 LTS con menos bloatware lo que lo hace un poco más ligero.
-Esta es una versión incompleta por lo que en esta versión tendremos básicamente el mismo diseño de Lubuntu y lo único que cambia es que tiene menos apps y el os-release cambia.
-Este respin al ser básicamente Lubuntu pero "con otro wallpaper" tendremos un resultado igual si removemos las apps que están en Apps removidas.txt.
+Esta es una versión incompleta por lo que en esta versión tendremos básicamente el mismo diseño de Lubuntu y lo único que cambia es que tiene menos apps,el os release cambia y tenemos lxde con un diseño diferente.
 
 El propósito de iddyQ es darles una nueva vida a viejos PCs, aunque eso no quiere decir que no se pueda instalar en hardware moderno, en PCs más nuevos podremos tener un rendimiento bastante bueno con su escritorio LXQt, aunque sea más pesado que LXDE igual obtendremos un rendimiento similar al de LXDE
 
