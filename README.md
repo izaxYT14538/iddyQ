@@ -12,7 +12,7 @@ tema de sddm,
 
 
 
-iddyQ 1.0 incomplete 1 (Powered By Lubuntu 20.04.6)
+iddyQ 1.1 (Powered By Lubuntu 20.04.6)
 
 iddyQ es Un respin de Lubuntu 20.04.6 LTS con menos bloatware lo que lo hace un poco más ligero.
 Esta es una versión incompleta por lo que en esta versión tendremos básicamente el mismo diseño de Lubuntu y lo único que cambia es que tiene menos apps,el os release cambia y tenemos lxde con un diseño diferente.
